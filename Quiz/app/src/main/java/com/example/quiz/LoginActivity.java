@@ -25,13 +25,9 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if (editTextNome.getText().toString()!=""){
-                    Toast.makeText(LoginActivity.this, "Correto", Toast.LENGTH_SHORT).show();
                     Intent intent = new Intent(LoginActivity.this, Q1Activity.class);
                     intent.putExtra("nome", editTextNome.getText().toString());
                     startActivity(intent);
-                }
-                else {
-                    Toast.makeText(LoginActivity.this, "Correto", Toast.LENGTH_SHORT).show();
                 }
             }
         });
