@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Mario Quiz</string>
+    <string name="jogador">Jogador(a)</string>
+    <string name="nome">Anônimo</string>
+    <string name="fim"> Fim! veja a sua pontuação: </string>
+    <string name="Button1"> Responder </string>
+    <string name="Button2"> Começar </string>
+    <string name="Button3"> Recomeçar </string>
+
+    <string name="Q1"> O Mario apareceu pela primeira vez em outro jogo, que jogo é esse? </string>
+    <string name="Res1Q1"> Sonic </string>
+    <string name="Res2Q1"> Donkey Kong </string>
+    <string name="Res3Q1"> Bomberman </string>
+    <string name="Res4Q1"> Mortal Kombat </string>
+    <string name="Res5Q1"> Street fighter </string>
+
+    <string name="Q2"> Quem foi o criador do Mario? </string>
+    <string name="Res1Q2"> Bruce Lee </string>
+    <string name="Res2Q2"> Walt Disney </string>
+    <string name="Res3Q2"> Masashi Kishimoto </string>
+    <string name="Res4Q2"> Hayao Miyazaki </string>
+    <string name="Res5Q2"> Shigeru Miyamoto </string>
+
+    <string name="Q3"> A respeito do design do Mario: </string>
+    <string name="Res1Q3"> O Mario é assim porque o designer não tinha bom gosto. </string>
+    <string name="Res2Q3"> O chapéu foi uma manobra para não ter que animar o cabelo. </string>
+    <string name="Res3Q3"> O Mario possui um bigode por conta dos recursos escassos de design da época. </string>
+    <string name="Res4Q3"> O bigode é para fazer uma homenagem ao seu criador. </string>
+    <string name="Res5Q3"> Mario não tem bigode. </string>
+
+    <string name="Q4"> Quais são as princesas no Mario? </string>
+    <string name="Res1Q4"> Zelda </string>
+    <string name="Res2Q4"> Daisy </string>
+    <string name="Res3Q4"> buzz lightyear </string>
+    <string name="Res4Q4"> Peach </string>
+    <string name="Res5Q4"> Toad </string>
+
+    <string name="Q5"> Qual a profissão do Mario? </string>
+    <string name="Res1Q5"> Encanador </string>
+    <string name="Res2Q5"> Fazendeiro </string>
+    <string name="Res3Q5"> Dançarino </string>
+    <string name="Res4Q5"> Pescador  </string>
+    <string name="Res5Q5"> Cowboy </string>
+
+    <string name="Q6"> Antes do Mario ter esse nome, que nome ele tinha? </string>
+    <string name="Res1Q6"> Luigi </string>
+    <string name="Res2Q6"> Batman </string>
+    <string name="Res3Q6"> Neo </string>
+    <string name="Res4Q6"> Daredevil </string>
+    <string name="Res5Q6"> Jumpman </string>
+
+    <string name="Q7"> Esse mapa foi inspirado: </string>
+    <string name="Res1Q7"> No Japão </string>
+    <string name="Res2Q7"> Na Dinamarca </string>
+    <string name="Res3Q7"> No Texas </string>
+    <string name="Res4Q7"> Na Russia </string>
+    <string name="Res5Q7"> Na China </string>
+
+    <string name="Q8"> Qual o nome do irmão no Mario? </string>
+    <string name="Res1Q8"> Clark </string>
+    <string name="Res2Q8"> Finn </string>
+    <string name="Res3Q8"> Luidi </string>
+    <string name="Res4Q8"> Luigi </string>
+    <string name="Res5Q8"> Miguel </string>
+
+    <string name="Q9"> O que é o Bowser? </string>
+    <string name="Res1Q9"> Tartaruga-dragão </string>
+    <string name="Res2Q9"> Dinossauro </string>
+    <string name="Res3Q9"> Jacaré </string>
+    <string name="Res4Q9"> Caramujo </string>
+    <string name="Res5Q9"> Porco-espinho </string>
+
+    <string name="Q10"> Qual é o reino da princessa Peach? </string>
+    <string name="Res1Q10"> Arendelle </string>
+    <string name="Res2Q10"> Asgard </string>
+    <string name="Res3Q10"> Kingdom of Wakanda </string>
+    <string name="Res4Q10"> Kingdom Mushroom </string>
+    <string name="Res5Q10"> Narnia </string>
+
+</resources>

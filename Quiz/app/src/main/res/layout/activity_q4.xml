@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Q4Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="20dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jogador"
+            android:textSize="20dp"
+            android:textColor="#434343" />
+
+        <TextView
+            android:id="@+id/editTextNome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nome"
+            android:textColor="#434343"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="212dp"
+        android:layout_margin="20dp"
+        app:srcCompat="@drawable/peach" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Q4"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:layout_margin="20dp"
+        android:textColor="#434343" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <CheckBox
+            android:id="@+id/checkBoxQ4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Res1Q4" />
+
+        <CheckBox
+            android:id="@+id/checkBox2Q4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Res2Q4" />
+
+        <CheckBox
+            android:id="@+id/checkBox3Q4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Res3Q4" />
+
+        <CheckBox
+            android:id="@+id/checkBox4Q4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Res4Q4" />
+
+        <CheckBox
+            android:id="@+id/checkBox5Q4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Res5Q4" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonQ4"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="240dp"
+        android:layout_width="127dp"
+        android:textColor="#fff"
+        android:background="@drawable/button"
+        android:layout_height="wrap_content"
+        android:text="@string/Button1" />
+
+</LinearLayout>
